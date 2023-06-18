@@ -46,18 +46,54 @@ Semi Project 진행 당시 여러 파트가 많은 웹 페이지를 만들고 �
 &nbsp;
 
 ## 2-3. 나의 작업 파일 경로
-**spring**
+**Eclipse**
+상품 (Product)
+- ListController : https://github.com/JongChanP/SemiProject/tree/main/workspace/semiPrj/src/coty/market/controller/list
+- DetailController : https://github.com/JongChanP/SemiProject/tree/main/workspace/semiPrj/src/coty/market/controller/detail
+- service : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/market/service/ProductService.java
+- dao : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/market/dao/ProductDao.java
+- vo : https://github.com/JongChanP/SemiProject/tree/main/workspace/semiPrj/src/coty/market/vo
 
-- controller : https://github.com/JongChanP/SemiProject/tree/main/workspace/semiPrj/src/coty/market/controller/list
-- dao(인터페이스) :  https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/dao/InterKHDAO.java
-- dao : https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/dao/KHDAO.java
-- service(인터페이스) : https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/service/InterKHService.java
-- service : https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/service/KHService.java
-- mapper(mybatis) : https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/mapper/kh.xml
+장바구니 (Cart)
+- Controller : 
+장바구니 추가
+https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/controller/CartAddController.java
+장바구니 조회
+https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/controller/CartController.java
+장바구니 삭제
+https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/controller/CartDeleteController.java
+- service : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/service/CartService.java
+- dao : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/dao/CartDao.java
+- vo : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/vo/CartVo.java
+
+주문 목록 
+- Controller : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/controller/OrderListController.java
+- service : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/service/OrderService.java
+- dao : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/dao/OrderDao.java
+- vo : https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/member/vo/OrderVo.java
+
+디자이너
+- Controller : 
+근무표 조회 
+https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/designer/controller/D_calendarController.java
+예약목록 조회
+https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/src/coty/designer/controller/D_rv_chartController.java
+
+
 
 **jsp**
-
-- https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/webapp/WEB-INF/views/notiles/reservationAndPay
+상품
+- https://github.com/JongChanP/SemiProject/tree/main/workspace/semiPrj/webapp/WEB-INF/views/market
+상품 상세
+- https://github.com/JongChanP/SemiProject/tree/main/workspace/semiPrj/webapp/WEB-INF/views/market/detail
+장바구니
+- https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/webapp/WEB-INF/views/member/Cart.jsp
+주문 목록
+- https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/webapp/WEB-INF/views/member/orderList.jsp
+디자이너 예약목록
+- https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/webapp/WEB-INF/views/designer/d_rv_chart.jsp
+근무표
+- https://github.com/JongChanP/SemiProject/blob/main/workspace/semiPrj/webapp/WEB-INF/views/designer/d_calendar.jsp
 
 &nbsp;
 
@@ -80,7 +116,7 @@ Semi Project 진행 당시 여러 파트가 많은 웹 페이지를 만들고 �
   </div>
 </details>
 <details>
-  <summary>디자이너 근무표 화</summary>
+  <summary>디자이너 근무표 화면</summary>
   <br />
   <div markdown="1">
     <image src="https://github.com/JongChanP/SemiProject/blob/main/SemiImage/DesignerCalender.png" />
