@@ -48,7 +48,7 @@ Semi Project 진행 당시 여러 파트가 많은 웹 페이지를 만들고 �
 ## 2-3. 나의 작업 파일 경로
 **spring**
 
-- controller : https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/controller/KHController.java
+- controller : https://github.com/JongChanP/SemiProject/tree/main/workspace/semiPrj/src/coty/market/controller/list
 - dao(인터페이스) :  https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/dao/InterKHDAO.java
 - dao : https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/dao/KHDAO.java
 - service(인터페이스) : https://github.com/junkahyun/FinalProject/tree/master/FinalProject/src/main/java/com/spring/bnb/service/InterKHService.java
