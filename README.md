@@ -66,48 +66,45 @@ Semi Project 진행 당시 여러 파트가 많은 웹 페이지를 만들고 �
   <summary>상품 List 화면</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/junkahyun/KHFinalProject/blob/master/screenimage/roomRuels_check.PNG" />
+    <image src="https://github.com/JongChanP/SemiProject/blob/main/SemiImage/ProductList.png" />
   </div>
 </details>
 <details>
   <summary>상품 Detail 화면</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/junkahyun/KHFinalProject/blob/master/screenimage/people_check.PNG" />
+    <image src="https://github.com/JongChanP/SemiProject/blob/main/SemiImage/ProductDetail1.png" />
+  </div>
+  <div markdown="1">
+    <image src="https://github.com/JongChanP/SemiProject/blob/main/SemiImage/ProductDetail2.png" />
   </div>
 </details>
 <details>
   <summary>디자이너 근무표 화</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/junkahyun/KHFinalProject/blob/master/screenimage/reserve_check.PNG" />
+    <image src="https://github.com/JongChanP/SemiProject/blob/main/SemiImage/DesignerCalender.png" />
   </div>
 </details>
 <details>
   <summary>디자이너 예약 확인 화면</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/junkahyun/KHFinalProject/blob/master/screenimage/coupon_use.PNG" />
+    <image src="https://github.com/JongChanP/SemiProject/blob/main/SemiImage/Designer.png" />
   </div>
 </details>
 <details>
-  <summary>결제 팝업 화면</summary>
+  <summary>장바구니 화면</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/junkahyun/KHFinalProject/blob/master/screenimage/reserve_popup.PNG" />
+    <image src="https://github.com/JongChanP/SemiProject/blob/main/SemiImage/Cart.png" />
   </div>
 </details>
 <details>
-  <summary>예약 완료 화면</summary>
+  <summary>회원 주문 목록 화면</summary>
   <br />
   <div markdown="1">
-    <image src="https://github.com/junkahyun/KHFinalProject/blob/master/screenimage/reserve_succes.PNG" />
+    <image src="https://github.com/JongChanP/SemiProject/blob/main/SemiImage/CustomerOrder.png" />
   </div>
 </details>
-<details>
-  <summary>예약 확정 이메일 화면</summary>
-  <br />
-  <div markdown="1">
-    <image src="https://github.com/junkahyun/KHFinalProject/blob/master/screenimage/reserve_email.PNG" />
-  </div>
-</details>
+
